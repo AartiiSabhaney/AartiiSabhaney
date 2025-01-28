@@ -1,6 +1,6 @@
 ## Hi there, I am Aartii Sabhaney 👋
 
-🎓 Generative AI Researcher | 🌐 Ethical AI Advocate | 
+ Technology Leader | Generative AI Researcher | Ethical AI Advocate 
 
 -  Exploring safety and bias in generative AI, focusing on equitable, inclusive, and ethical solutions.
 -  Experienced in GANs, Diffusion Models, LLMs, and modern frameworks like PyTorch.
